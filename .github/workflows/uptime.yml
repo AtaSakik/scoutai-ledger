@@ -1,0 +1,32 @@
+name: uptime
+on:
+  schedule:
+    - cron: "*/10 * * * *"     # health probe (ScoutAI roadmap B2)
+    - cron: "0 8 * * 1"        # weekly: TLS certificate expiry too
+  workflow_dispatch: {}
+permissions:
+  contents: read
+concurrency:
+  group: uptime
+  cancel-in-progress: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/cache/restore@v4
+        with:
+          path: .uptime
+          key: uptime-${{ github.run_id }}
+          restore-keys: uptime-
+      - run: python3 tools/uptime.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.UPTIME_TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.UPTIME_TELEGRAM_CHAT_ID }}
+          TLS_CHECK: ${{ github.event.schedule == '0 8 * * 1' && '1' || '0' }}
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .uptime
+          key: uptime-${{ github.run_id }}
