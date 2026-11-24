@@ -27,6 +27,11 @@ that it was not changed or deleted. We do not ask you to trust our own logs.
 The API refuses to change a prediction once its match has kicked off, so the
 revealed leaf is the committed one.
 
+**Season forecasts.** The first forecast of every league-season is sealed too:
+its SHA-256 appears under `season_seals` in the hourly files for two weeks, and
+`https://api.atasakik.com/championship/<league>/seal` publishes the content.
+When the season ends, `/championship/<league>/report` grades it — misses included.
+
 ## Verify a prediction yourself
 
 ```bash
