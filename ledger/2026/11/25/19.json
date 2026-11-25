@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T19:07:11Z",
+ "fetched_at": "2026-11-25T19:53:11Z",
  "pending": {
   "commitments": [
    {
@@ -27,6 +27,14 @@
     "match_id": "401874563"
    },
    {
+    "away": "Bologna FC",
+    "home": "Venezia",
+    "kickoff": "2026-11-27T19:45:00Z",
+    "leaf_hash": "9c180d7d428664558bce9187791cd1ae6049974c32f46ff5c6dce1415dd04c04",
+    "league_code": "SA",
+    "match_id": "401875004"
+   },
+   {
     "away": "Willem II",
     "home": "FC Groningen",
     "kickoff": "2026-11-27T19:00:00Z",
@@ -35,12 +43,36 @@
     "match_id": "401875536"
    },
    {
+    "away": "Paris FC",
+    "home": "Stade Brestois",
+    "kickoff": "2026-11-27T19:45:00Z",
+    "leaf_hash": "df022786bbd10c7b016e284df1b031c138ef43482c7209d2cc07abd692606933",
+    "league_code": "FL1",
+    "match_id": "401876392"
+   },
+   {
+    "away": "KV Kortrijk",
+    "home": "Oud-Heverlee Leuven",
+    "kickoff": "2026-11-27T19:45:00Z",
+    "leaf_hash": "2ecb71c7adca8f6ec316fdac9ed8c3620c2a56dd751bb3619f95c1d0310f0a03",
+    "league_code": "B1",
+    "match_id": "401878930"
+   },
+   {
     "away": "SCR Altach",
     "home": "Grazer AK",
     "kickoff": "2026-11-27T18:30:00Z",
     "leaf_hash": "fbb770ccb08d714a1e5d1cbfdf74ad4ec0cf1187f1c5c3ced4923cfce2ea91af",
     "league_code": "AUT",
     "match_id": "401881739"
+   },
+   {
+    "away": "Borussia Mönchengladbach",
+    "home": "Werder Bremen",
+    "kickoff": "2026-11-27T19:30:00Z",
+    "leaf_hash": "94d32849eb732da1d13b48eab44cf3c77cbac761539a579eb4435756fd78c41f",
+    "league_code": "BL1",
+    "match_id": "401884720"
    },
    {
     "away": "Kasımpaşa",
@@ -451,6 +483,14 @@
     "match_id": "538064834373"
    },
    {
+    "away": "Wisła Płock",
+    "home": "Gornik Zabrze",
+    "kickoff": "2026-11-27T19:30:00Z",
+    "leaf_hash": "401ea4dfe3970110fa9482200b28863634dda3806a50929e02eab87761befaff",
+    "league_code": "POL",
+    "match_id": "fotmob-5804049"
+   },
+   {
     "away": "Piast Gliwice",
     "home": "Rakow",
     "kickoff": "2026-11-27T17:00:00Z",
@@ -475,9 +515,9 @@
     "match_id": "fotmob-5853566"
    }
   ],
-  "count": 59,
-  "generated_at": "2026-11-25T19:07:12Z",
-  "root": "13fa358a72b84ac3aa4eb14e3929efb4832975af6e3112a170e2f4a87724b543",
+  "count": 64,
+  "generated_at": "2026-11-25T19:53:12Z",
+  "root": "01c37e0c6d215a97032e80d1ae21577a37e05b246129dc06ff3434d07c57cc5f",
   "season_seals": [
    {
     "hash": "cdd86c390a33fd576e69bab3d271baf128c289a0665c0ee340122831eb8e4121",
