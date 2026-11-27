@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T14:07:10Z",
+ "fetched_at": "2026-11-27T14:56:59Z",
  "pending": {
   "commitments": [
    {
@@ -174,7 +174,7 @@
     "away": "Parma",
     "home": "Frosinone",
     "kickoff": "2026-11-28T14:00:00Z",
-    "leaf_hash": "96ec9d8ffbc9fbd9845793083edc992b99f5b7a37955904b5c98e7027e6b6082",
+    "leaf_hash": "a7eee984c56aca047f072d40ff9016f0ce1a2d5a63a97545d9f87235e3bc4857",
     "league_code": "SA",
     "match_id": "401875081"
    },
@@ -534,7 +534,7 @@
     "away": "Rayo Vallecano",
     "home": "Real Betis",
     "kickoff": "2026-11-28T13:00:00Z",
-    "leaf_hash": "8cc7092a14b459a1e2ed5672b10b8b24074cbebd11fe288d0145edcb22b41480",
+    "leaf_hash": "f753c34cab1c55d42966d2d8fca128c304886f012fc2821ee59f64666fc74ecd",
     "league_code": "PD",
     "match_id": "401882796"
    },
@@ -542,7 +542,7 @@
     "away": "Schalke 04",
     "home": "Paderborn",
     "kickoff": "2026-11-28T14:30:00Z",
-    "leaf_hash": "73817ecd990c34ee9eca804521979a2f5b87e6ea9e7e639c1049f4c644c53166",
+    "leaf_hash": "28f4fea539fe1a0b842cda61e5a083ad55bf2bdee55bcb624d5af281ed606807",
     "league_code": "BL1",
     "match_id": "401884719"
    },
@@ -558,7 +558,7 @@
     "away": "Elversberg",
     "home": "FC Köln",
     "kickoff": "2026-11-28T14:30:00Z",
-    "leaf_hash": "5c7a5c6528d338e7540d4921e104f279b98ce6da6c5cacd28369673f4b22b913",
+    "leaf_hash": "633a7c59de4dab3f74d30f7b4102d2afd0605cea3308cd689148185cbc0a3a8d",
     "league_code": "BL1",
     "match_id": "401884721"
    },
@@ -566,7 +566,7 @@
     "away": "Bayern Munich",
     "home": "Hamburger SV",
     "kickoff": "2026-11-28T14:30:00Z",
-    "leaf_hash": "0ea2767301d751a596c56b1d059073549544717871d9e30afc4c251f6ab2e747",
+    "leaf_hash": "4431f0330a14dc0d63ab857318d494fd4aaa1481dc3b05abb229e94fd47631df",
     "league_code": "BL1",
     "match_id": "401884722"
    },
@@ -574,9 +574,17 @@
     "away": "Union Berlin",
     "home": "Mainz 05",
     "kickoff": "2026-11-28T14:30:00Z",
-    "leaf_hash": "ce7fc65778ee07a782eff052ed59e463e6d31b498bc0e9c40c626a9cc950a2fe",
+    "leaf_hash": "3b25cf7170f3c25b0d3a12f659f35f9a740e3d0ed68f3336cdb430cf79b75e2a",
     "league_code": "BL1",
     "match_id": "401884723"
+   },
+   {
+    "away": "RB Leipzig",
+    "home": "SC Freiburg",
+    "kickoff": "2026-11-29T14:30:00Z",
+    "leaf_hash": "330a8a41921dc7a948a52f063c94ad2a816da2c68ca6336f27e149937563a662",
+    "league_code": "BL1",
+    "match_id": "401884724"
    },
    {
     "away": "Eintracht Frankfurt",
@@ -630,7 +638,7 @@
     "away": "Gençlerbirliği",
     "home": "Samsunspor",
     "kickoff": "2026-11-28T13:00:00Z",
-    "leaf_hash": "c851b61395a3c986bfa51dc52300613afd80a4255b4a33545da60808304dd357",
+    "leaf_hash": "5740a52a08e01bb280e008393d06cda89fb6e7ad20766a2dd5e0cd247e287c7f",
     "league_code": "TSL",
     "match_id": "401888236"
    },
@@ -782,7 +790,7 @@
     "away": "Independiente",
     "home": "Velez Sarsfield",
     "kickoff": "2026-11-28T23:00:00Z",
-    "leaf_hash": "f02f9280bc637cae1cbd37e36516884554664678c3bef3d88a6c9c5536ecaf59",
+    "leaf_hash": "b4812f21ca421488616fda662ee90e978aa61c7c74752120b436e40226481a92",
     "league_code": "ARG",
     "match_id": "401936353"
    },
@@ -830,7 +838,7 @@
     "away": "Zaglebie",
     "home": "Widzew Lodz",
     "kickoff": "2026-11-28T13:45:00Z",
-    "leaf_hash": "643a2563de1f8cd5a4d7ae1ee0af92cfd35bb6dbb67e287f510138545403db0a",
+    "leaf_hash": "9c6ab09aca4a91156319efe539824cc3f619110799dcae67443bfbd7712a8f7b",
     "league_code": "POL",
     "match_id": "fotmob-5804056"
    },
@@ -923,9 +931,9 @@
     "match_id": "fotmob-5853566"
    }
   ],
-  "count": 115,
-  "generated_at": "2026-11-27T14:07:11Z",
-  "root": "f1972364c732b8f9740048dc9ffe8bb5663ad7d8407090ffc1ec66d42e466406",
+  "count": 116,
+  "generated_at": "2026-11-27T14:57:00Z",
+  "root": "297ad2006bfc0a95fba9f49bd67b20be5a551ebe9ed3a39fe730143570a56cb2",
   "season_seals": [
    {
     "hash": "cdd86c390a33fd576e69bab3d271baf128c289a0665c0ee340122831eb8e4121",
