@@ -1,0 +1,1155 @@
+{
+ "fetched_at": "2026-11-27T17:07:13Z",
+ "pending": {
+  "commitments": [
+   {
+    "away": "Bahia",
+    "home": "Botafogo RJ",
+    "kickoff": "2026-11-29T00:00:00Z",
+    "leaf_hash": "e611e47604280534d0ff5e234d9c0991368ff37622746dbb798c7b9c4540d0c1",
+    "league_code": "BRA",
+    "match_id": "401841336"
+   },
+   {
+    "away": "Cruzeiro",
+    "home": "Fluminense",
+    "kickoff": "2026-11-27T23:00:00Z",
+    "leaf_hash": "8a89aa1397f6f690da80aec02e9c83419cb496d6b667b2ad417936238105d176",
+    "league_code": "BRA",
+    "match_id": "401841337"
+   },
+   {
+    "away": "Orgryte",
+    "home": "Degerfors",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "89f3368d1f14f141ed65680e6d7e7450a2181aff56bde822cece46513a945eb0",
+    "league_code": "SWE",
+    "match_id": "401842890"
+   },
+   {
+    "away": "IF Brommapojkarna",
+    "home": "Malmö FF",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "90dfce7d4dbc258e5654ea2247b0a8f66675293805b6ef8e7ce216e6d448a53a",
+    "league_code": "SWE",
+    "match_id": "401842891"
+   },
+   {
+    "away": "AIK",
+    "home": "Kalmar FF",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "43bb9e04568be7e84fcb624dcb9036cd1e9f263dcdf2f12d54a30a6446018c8e",
+    "league_code": "SWE",
+    "match_id": "401842892"
+   },
+   {
+    "away": "Sirius",
+    "home": "IFK Göteborg",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "eeac0439b3c037062344c315dc72afa6c5029663096355ef1fe4205624270f8e",
+    "league_code": "SWE",
+    "match_id": "401842893"
+   },
+   {
+    "away": "Mjallby",
+    "home": "Halmstads BK",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "af8724165203fdbdc767e73d9382cc91e82c301521657c9c61252f1df6add07a",
+    "league_code": "SWE",
+    "match_id": "401842894"
+   },
+   {
+    "away": "GAIS",
+    "home": "IF Elfsborg",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "1b76671ebec2f67a3989a1e65131eebca09eb1ed8cfcd1f0c6f0f514f53e82b6",
+    "league_code": "SWE",
+    "match_id": "401842895"
+   },
+   {
+    "away": "BK Hacken",
+    "home": "Djurgårdens IF",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "d4c510d1de765559aaa6b474a613b76f433d679539b1943bef968c4d201bda82",
+    "league_code": "SWE",
+    "match_id": "401842896"
+   },
+   {
+    "away": "Hammarby IF",
+    "home": "Vasteras SK",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "689029ba3e1a2903ff7c519430df45c520937db48b02f800d9f422a19c73929b",
+    "league_code": "SWE",
+    "match_id": "401842897"
+   },
+   {
+    "away": "Sarpsborg 08",
+    "home": "Start",
+    "kickoff": "2026-11-29T16:00:00Z",
+    "leaf_hash": "acc9d29dabd6d17f901185cc17e42be30b6c5cf7582170726dad50225d09050f",
+    "league_code": "NOR",
+    "match_id": "401843491"
+   },
+   {
+    "away": "KFUM Oslo",
+    "home": "Bodø/Glimt",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "111d5007a16e8126eca184a8a6988b9491117368897c47ff218f1876e2789c58",
+    "league_code": "NOR",
+    "match_id": "401843492"
+   },
+   {
+    "away": "Kristiansund",
+    "home": "SK Brann",
+    "kickoff": "2026-11-29T16:00:00Z",
+    "leaf_hash": "21536d0536ed789345ccb5cc68b86fd4d9c8115a86157cc18094306e2cbebe0f",
+    "league_code": "NOR",
+    "match_id": "401843494"
+   },
+   {
+    "away": "Aalesund",
+    "home": "Fredrikstad",
+    "kickoff": "2026-11-29T13:30:00Z",
+    "leaf_hash": "3c89ad83e339fa08bbf3a3a00a5e8cb39aaaff565ad2db96453f4b5d12d72c21",
+    "league_code": "NOR",
+    "match_id": "401843495"
+   },
+   {
+    "away": "Molde FK",
+    "home": "Rosenborg BK",
+    "kickoff": "2026-11-28T17:00:00Z",
+    "leaf_hash": "d98daaa386e441cb0ae8a5f67170c396254d23e73dfb31a91ab18e076a573d9d",
+    "league_code": "NOR",
+    "match_id": "401843497"
+   },
+   {
+    "away": "Tromsø",
+    "home": "Sandefjord",
+    "kickoff": "2026-11-29T16:00:00Z",
+    "leaf_hash": "9199e664d083c0c40ca9e0ee4a2107bc14f5a4b796e401c7a86891b41806f66e",
+    "league_code": "NOR",
+    "match_id": "401843498"
+   },
+   {
+    "away": "Viborg FF",
+    "home": "Lyngby",
+    "kickoff": "2026-11-29T13:00:00Z",
+    "leaf_hash": "73fb564996a131b21006bf10f7e7f06b117927e030d82e7b3b0f96c6822d5cb0",
+    "league_code": "DEN",
+    "match_id": "401874500"
+   },
+   {
+    "away": "FC Midtjylland",
+    "home": "FC Copenhagen",
+    "kickoff": "2026-11-29T15:00:00Z",
+    "leaf_hash": "88849f158ed5448d0427655639e912c229e9a0920d9fb19d6fb25a0a17edf168",
+    "league_code": "DEN",
+    "match_id": "401874552"
+   },
+   {
+    "away": "Brøndby",
+    "home": "Sonderjyske",
+    "kickoff": "2026-11-27T18:00:00Z",
+    "leaf_hash": "618ea075f1dea7d87fc0c3a45f5f65062bdf1894e8a6d332b5fcc9f7167d00b0",
+    "league_code": "DEN",
+    "match_id": "401874563"
+   },
+   {
+    "away": "Horsens",
+    "home": "Randers FC",
+    "kickoff": "2026-11-29T13:00:00Z",
+    "leaf_hash": "4894f1b0cccebbea2ee62322f8d6f4e03e9323faef04df8ff28e51b3a04b1611",
+    "league_code": "DEN",
+    "match_id": "401874725"
+   },
+   {
+    "away": "AGF",
+    "home": "Silkeborg",
+    "kickoff": "2026-11-29T17:00:00Z",
+    "leaf_hash": "ac84cfda27701bb1508bdd4ca25644bd3a0d33d6fdad39031439ec6d39a40df3",
+    "league_code": "DEN",
+    "match_id": "401874727"
+   },
+   {
+    "away": "AC Monza",
+    "home": "AS Roma",
+    "kickoff": "2026-11-29T17:00:00Z",
+    "leaf_hash": "34622a2f2f6703b67359e172cdc9b3eaa64ad474022666d0e0abcb0606963993",
+    "league_code": "SA",
+    "match_id": "401874769"
+   },
+   {
+    "away": "Lazio",
+    "home": "Torino",
+    "kickoff": "2026-11-28T17:00:00Z",
+    "leaf_hash": "be4654ae95633d04c29be90c149a1db0e4138aaf69f20f4be3cf452e369d8c33",
+    "league_code": "SA",
+    "match_id": "401874826"
+   },
+   {
+    "away": "Genoa",
+    "home": "Inter Milan",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "leaf_hash": "483e5ff4e9ae2d58d994e7b124b45e613d206a85b9cad2683710a6f08c5e9162",
+    "league_code": "SA",
+    "match_id": "401874977"
+   },
+   {
+    "away": "Napoli",
+    "home": "Sassuolo",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "df039a8389340d5618618eea580a6f6952c110edd90f70106cd159d930bf9da2",
+    "league_code": "SA",
+    "match_id": "401874992"
+   },
+   {
+    "away": "Bologna FC",
+    "home": "Venezia",
+    "kickoff": "2026-11-27T19:45:00Z",
+    "leaf_hash": "44167f71c092aa363a29eb00e09c3368c62246d45ea9674d248b477081e5d53f",
+    "league_code": "SA",
+    "match_id": "401875004"
+   },
+   {
+    "away": "Fiorentina",
+    "home": "Udinese",
+    "kickoff": "2026-11-29T11:30:00Z",
+    "leaf_hash": "07f1fb22dd7c4663a4531dc6c073133150abb1063d3821acf68abd6a9f554aee",
+    "league_code": "SA",
+    "match_id": "401875031"
+   },
+   {
+    "away": "Parma",
+    "home": "Frosinone",
+    "kickoff": "2026-11-28T14:00:00Z",
+    "leaf_hash": "a7eee984c56aca047f072d40ff9016f0ce1a2d5a63a97545d9f87235e3bc4857",
+    "league_code": "SA",
+    "match_id": "401875081"
+   },
+   {
+    "away": "Sparta Rotterdam",
+    "home": "Cambuur",
+    "kickoff": "2026-11-28T20:00:00Z",
+    "leaf_hash": "1a6ddb618e30ad241d7fe9fccdc61ef03f7520fd285a7d1a440dde9e4d398b7e",
+    "league_code": "DED",
+    "match_id": "401875530"
+   },
+   {
+    "away": "Go Ahead Eag",
+    "home": "PSV Eindhoven",
+    "kickoff": "2026-11-28T17:45:00Z",
+    "leaf_hash": "8fe34a43aa19901feef496c677867e33f25ffbe27c390e629d158dbffcf3cd5c",
+    "league_code": "DED",
+    "match_id": "401875531"
+   },
+   {
+    "away": "AZ Alkmaar",
+    "home": "Zwolle",
+    "kickoff": "2026-11-29T15:45:00Z",
+    "leaf_hash": "0d39e16a402dec14681f6268ec7a10649236cff9963eb63b617d03f13b9bda5a",
+    "league_code": "DED",
+    "match_id": "401875532"
+   },
+   {
+    "away": "Heerenveen",
+    "home": "Fortuna Sittard",
+    "kickoff": "2026-11-29T13:30:00Z",
+    "leaf_hash": "66ab3c49e55e5b1ef3244091236da8390275aef5b526324301ee60f2eaf92d9e",
+    "league_code": "DED",
+    "match_id": "401875534"
+   },
+   {
+    "away": "Ajax",
+    "home": "Feyenoord",
+    "kickoff": "2026-11-29T13:30:00Z",
+    "leaf_hash": "b95c5fa193d752cd10871bf2f8a78348dfeefa7a0d909f5aed5425c2fa21ce3d",
+    "league_code": "DED",
+    "match_id": "401875535"
+   },
+   {
+    "away": "Willem II",
+    "home": "FC Groningen",
+    "kickoff": "2026-11-27T19:00:00Z",
+    "leaf_hash": "c0454008767f2c4fba215ba58c676111f865470ac016c470e6f5397f84b9b6bb",
+    "league_code": "DED",
+    "match_id": "401875536"
+   },
+   {
+    "away": "Telstar",
+    "home": "Excelsior",
+    "kickoff": "2026-11-28T15:30:00Z",
+    "leaf_hash": "afad0a2b86bed25d5a01461c6ef56b968d64fa8e27ee220748262f160e0e6999",
+    "league_code": "DED",
+    "match_id": "401875537"
+   },
+   {
+    "away": "FC Utrecht",
+    "home": "ADO Den Haag",
+    "kickoff": "2026-11-29T11:15:00Z",
+    "leaf_hash": "c97d25881fdebd8bac1e58747ff0355aa4953209f9f27e698f6c1dccd4d445b3",
+    "league_code": "DED",
+    "match_id": "401875538"
+   },
+   {
+    "away": "Stade Rennais",
+    "home": "Toulouse",
+    "kickoff": "2026-11-29T16:15:00Z",
+    "leaf_hash": "8e2584080f5e4be208fa1374846c4b535224be030d952433d483004d98333655",
+    "league_code": "FL1",
+    "match_id": "401876386"
+   },
+   {
+    "away": "FC Lorient",
+    "home": "Paris Saint Germain",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "leaf_hash": "ae35127584f21d454b54b0c27dccbc4f7d1067c0718a30bf4b936611aa476b16",
+    "league_code": "FL1",
+    "match_id": "401876387"
+   },
+   {
+    "away": "ESTAC Troyes",
+    "home": "OGC Nice",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "leaf_hash": "f6aa74562566fdf11a1a7142246d20eecff2f6fe5ae442b53e460ea33ef9e301",
+    "league_code": "FL1",
+    "match_id": "401876388"
+   },
+   {
+    "away": "Lille OSC",
+    "home": "Le Mans",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "leaf_hash": "31b90a53bb61221f565a7ec84de715c7c2c08a089ec9d3e11d90c8a7cfff38a1",
+    "league_code": "FL1",
+    "match_id": "401876390"
+   },
+   {
+    "away": "RC Strasbourg",
+    "home": "Le Havre",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "leaf_hash": "338b44b51e71364ea3abc008b0d65a67188555bb1f2e1e911f44613dc211079f",
+    "league_code": "FL1",
+    "match_id": "401876391"
+   },
+   {
+    "away": "Paris FC",
+    "home": "Stade Brestois",
+    "kickoff": "2026-11-27T19:45:00Z",
+    "leaf_hash": "33988c72e78c71935fd102611fda134f5a07ea3688b1a319873083734badd172",
+    "league_code": "FL1",
+    "match_id": "401876392"
+   },
+   {
+    "away": "Olympique Marseille",
+    "home": "Auxerre",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "leaf_hash": "14499a33a247a739af08f95dbb5cdd73a24db3491ceb986b08e30e229e63e6c3",
+    "league_code": "FL1",
+    "match_id": "401876393"
+   },
+   {
+    "away": "RC Lens",
+    "home": "Angers SCO",
+    "kickoff": "2026-11-28T16:15:00Z",
+    "leaf_hash": "d970b97ce5fab70289aff4e40d706a901cfc4e91fc97b5afe2057868db8d2450",
+    "league_code": "FL1",
+    "match_id": "401876394"
+   },
+   {
+    "away": "Kilmarnock",
+    "home": "St Mirren",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "a4d5b5ab2da4891c1a2bb7c0643ce0abbaf64ac580a832de61bf3da9ec45643f",
+    "league_code": "SC0",
+    "match_id": "401878327"
+   },
+   {
+    "away": "Falkirk",
+    "home": "Rangers",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "89685f32eaee59ce0ac37577c5c8d59000303b3966386e2b8437dbcce384997a",
+    "league_code": "SC0",
+    "match_id": "401878328"
+   },
+   {
+    "away": "Hibernian",
+    "home": "Motherwell",
+    "kickoff": "2026-11-28T17:45:00Z",
+    "leaf_hash": "f9ba6f8b3a582d378c162dbb7cd3d3b1b86ad016dae6562eb95f45b1fbea3492",
+    "league_code": "SC0",
+    "match_id": "401878329"
+   },
+   {
+    "away": "Celtic",
+    "home": "Hearts",
+    "kickoff": "2026-11-29T15:00:00Z",
+    "leaf_hash": "6156585f34225eea82982633df2d5f060b4640752615c83b17c4b0e082bc010a",
+    "league_code": "SC0",
+    "match_id": "401878330"
+   },
+   {
+    "away": "St Johnstone",
+    "home": "Dundee United",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "93bba53525a8792d5b3acc0151966ed9596036e714e639000792d0a8ef356efa",
+    "league_code": "SC0",
+    "match_id": "401878331"
+   },
+   {
+    "away": "Dundee",
+    "home": "Aberdeen",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "43b1d61b2feee6efd93f6f1f9fad2bc59d6f878b1b752bdfdd2035f6e2ae2dc2",
+    "league_code": "SC0",
+    "match_id": "401878332"
+   },
+   {
+    "away": "Aston Villa",
+    "home": "Ipswich Town",
+    "kickoff": "2026-11-28T17:30:00Z",
+    "leaf_hash": "2d24264604edfc1c7dfff9a5c18dcfe998725958a568803495f7d28092d1307f",
+    "league_code": "PL",
+    "match_id": "401878752"
+   },
+   {
+    "away": "Manchester City",
+    "home": "Arsenal",
+    "kickoff": "2026-11-29T16:30:00Z",
+    "leaf_hash": "51c828fc7f231bd6dcb95925cb9e697de93e3ef9ade120bf1ad8804f5dd05dc4",
+    "league_code": "PL",
+    "match_id": "401878753"
+   },
+   {
+    "away": "KRC Genk",
+    "home": "St Truiden",
+    "kickoff": "2026-11-29T12:30:00Z",
+    "leaf_hash": "17d405350e60856b85640b5551ec85461feb897ff4aaff8d2dff5d200b6a3122",
+    "league_code": "B1",
+    "match_id": "401878926"
+   },
+   {
+    "away": "RSC Anderlecht",
+    "home": "Antwerp",
+    "kickoff": "2026-11-29T15:00:00Z",
+    "leaf_hash": "3b561134dba9c66104aa8e797ba9340e5e3f6590e5d1f627b9c8dc65cc908821",
+    "league_code": "B1",
+    "match_id": "401878928"
+   },
+   {
+    "away": "RAAL La Louviere",
+    "home": "KVC Westerlo",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "201551af46575ec8189f5709c2651ec40d85ce384c490fd91a7f787cb1d50b24",
+    "league_code": "B1",
+    "match_id": "401878929"
+   },
+   {
+    "away": "KV Kortrijk",
+    "home": "Oud-Heverlee Leuven",
+    "kickoff": "2026-11-27T19:45:00Z",
+    "leaf_hash": "12273970578bc0600366d16e6bc258c7fabe0f2c20aeb4ae2af972d9fdc8cbd1",
+    "league_code": "B1",
+    "match_id": "401878930"
+   },
+   {
+    "away": "Zulte Waregem",
+    "home": "Lommel SK",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "leaf_hash": "bd2782b8cf4763d255ae5bf639ced038287e2bdce08480d125ae13437d9079f5",
+    "league_code": "B1",
+    "match_id": "401878931"
+   },
+   {
+    "away": "KV Mechelen",
+    "home": "Cercle Brugge",
+    "kickoff": "2026-11-28T17:15:00Z",
+    "leaf_hash": "f3ce7c7d051b4f5d7d5a24ad0400ff3ca6faa10cdea3205691b3211c71a681bf",
+    "league_code": "B1",
+    "match_id": "401878932"
+   },
+   {
+    "away": "Beveren",
+    "home": "Charleroi",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "leaf_hash": "f5710af82b0b1289824b111f3ce079e6f1d56a4d21f91cbf227eb85c5f3ca82a",
+    "league_code": "B1",
+    "match_id": "401878933"
+   },
+   {
+    "away": "Tottenham Hotspur",
+    "home": "Sunderland",
+    "kickoff": "2026-11-29T14:05:00Z",
+    "leaf_hash": "ffbc0229b0d2d85bc80bd836401d27fcd97b38418267841dc991caee66e92e46",
+    "league_code": "PL",
+    "match_id": "401879224"
+   },
+   {
+    "away": "Chelsea",
+    "home": "Nottingham Forest",
+    "kickoff": "2026-11-27T20:00:00Z",
+    "leaf_hash": "d0def969f6c3dddd3649d662b8b061b9ba2de37eb45a70f18939d78789eaf486",
+    "league_code": "PL",
+    "match_id": "401879225"
+   },
+   {
+    "away": "Brentford",
+    "home": "Manchester United",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "f140c01e93e821e4dcbfcd407c6d4fc58b1ffecb1037ce36c04791b6030a6350",
+    "league_code": "PL",
+    "match_id": "401879226"
+   },
+   {
+    "away": "Coventry City",
+    "home": "Leeds United",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "51eb20e3a3991c01c906013fade1de5542b5f2e8296ef4523c1a3545679a3e22",
+    "league_code": "PL",
+    "match_id": "401879227"
+   },
+   {
+    "away": "Bournemouth",
+    "home": "Fulham",
+    "kickoff": "2026-11-29T14:05:00Z",
+    "leaf_hash": "0d1dbf966753b9a5015ca56a2011fcb784d4af0c674854d141a0913a01aba121",
+    "league_code": "PL",
+    "match_id": "401879228"
+   },
+   {
+    "away": "Liverpool",
+    "home": "Everton",
+    "kickoff": "2026-11-29T12:00:00Z",
+    "leaf_hash": "67b36265242cb8ddd4b46e8750d2230182cb2d760f1502bf58731d3cde195292",
+    "league_code": "PL",
+    "match_id": "401879229"
+   },
+   {
+    "away": "Hull City",
+    "home": "Crystal Palace",
+    "kickoff": "2026-11-29T14:05:00Z",
+    "leaf_hash": "288c6bd6f2dd1bd0b20fc5160927f1a10db137738842750b356abb47736e8bf5",
+    "league_code": "PL",
+    "match_id": "401879230"
+   },
+   {
+    "away": "Newcastle United",
+    "home": "Brighton and Hove Albion",
+    "kickoff": "2026-11-29T14:05:00Z",
+    "leaf_hash": "e32dd9d80fc0f30da0200bf69a23061685bcbb4baaf79526cee5ddf9e82808b9",
+    "league_code": "PL",
+    "match_id": "401879231"
+   },
+   {
+    "away": "SK Rapid Wien",
+    "home": "A. Lustenau",
+    "kickoff": "2026-11-28T18:30:00Z",
+    "leaf_hash": "a063959093b37c1ab58beb73a5c298c7a3cf9a8580f5841c22000ca88f41b6e0",
+    "league_code": "AUT",
+    "match_id": "401881738"
+   },
+   {
+    "away": "SCR Altach",
+    "home": "Grazer AK",
+    "kickoff": "2026-11-27T18:30:00Z",
+    "leaf_hash": "35412089c109e2c15719ad8ebb1c1fd5f772d66cdc6379430c13327093201759",
+    "league_code": "AUT",
+    "match_id": "401881739"
+   },
+   {
+    "away": "Wolfsberger AC",
+    "home": "Austria Wien",
+    "kickoff": "2026-11-28T16:00:00Z",
+    "leaf_hash": "237d848dcdd3d24b8b455bcde3e85b11fa816c99316b90e7b368c0a37a4b4ce6",
+    "league_code": "AUT",
+    "match_id": "401881740"
+   },
+   {
+    "away": "TSV Hartberg",
+    "home": "SV Ried",
+    "kickoff": "2026-11-29T13:30:00Z",
+    "leaf_hash": "74defbbd3e45463320146331a2ed8efcab99600e8c443f1484f62e93a02dc5dd",
+    "league_code": "AUT",
+    "match_id": "401881741"
+   },
+   {
+    "away": "LASK Linz",
+    "home": "Red Bull Salzburg",
+    "kickoff": "2026-11-29T16:00:00Z",
+    "leaf_hash": "4457e42653d0aa5b844c7b7aca75d7c31b181838a811ba2a9acdd476862caf2a",
+    "league_code": "AUT",
+    "match_id": "401881742"
+   },
+   {
+    "away": "Tirol Innsbruck",
+    "home": "SK Sturm Graz",
+    "kickoff": "2026-11-29T13:30:00Z",
+    "leaf_hash": "480d784e18b34cc2e7eb1130885cdb5e0d51b74fb37d5de04a12fff2cee3938a",
+    "league_code": "AUT",
+    "match_id": "401881743"
+   },
+   {
+    "away": "CA Osasuna",
+    "home": "Valencia CF",
+    "kickoff": "2026-11-29T13:00:00Z",
+    "leaf_hash": "81f70ed9f7685a1edc99a669cb9b94eafc552f5906d3977076c074c065020222",
+    "league_code": "PD",
+    "match_id": "401882787"
+   },
+   {
+    "away": "Deportivo Alavés",
+    "home": "Real Madrid",
+    "kickoff": "2026-11-28T20:00:00Z",
+    "leaf_hash": "b8292e0f84adab8135286e0997f01de81d68074fdd1d6baae9ff65ba551c63f2",
+    "league_code": "PD",
+    "match_id": "401882789"
+   },
+   {
+    "away": "Athletic Bilbao",
+    "home": "Málaga CF",
+    "kickoff": "2026-11-28T15:15:00Z",
+    "leaf_hash": "e1e11891c521eba257c493c17e85802fea2ed1f0e1b5d1031ea4f0def42e8895",
+    "league_code": "PD",
+    "match_id": "401882790"
+   },
+   {
+    "away": "Racing de Santander",
+    "home": "Levante UD",
+    "kickoff": "2026-11-27T20:00:00Z",
+    "leaf_hash": "cde01eaf0b0f32c4c2cb2669a67ad773e75422253d7967636b08d13d377ad4ed",
+    "league_code": "PD",
+    "match_id": "401882791"
+   },
+   {
+    "away": "Atlético Madrid",
+    "home": "Elche CF",
+    "kickoff": "2026-11-28T17:30:00Z",
+    "leaf_hash": "4b9df9ed05ee7277d9ec098768b965ad1a5207fa76bd1f30d43c88e0690786f2",
+    "league_code": "PD",
+    "match_id": "401882793"
+   },
+   {
+    "away": "Barcelona",
+    "home": "Deportivo La Coruña",
+    "kickoff": "2026-11-29T15:15:00Z",
+    "leaf_hash": "fbb618288b42965077f60372e6504684d4ed94e1c5971a60f13105835b4c9721",
+    "league_code": "PD",
+    "match_id": "401882794"
+   },
+   {
+    "away": "Rayo Vallecano",
+    "home": "Real Betis",
+    "kickoff": "2026-11-28T13:00:00Z",
+    "leaf_hash": "f753c34cab1c55d42966d2d8fca128c304886f012fc2821ee59f64666fc74ecd",
+    "league_code": "PD",
+    "match_id": "401882796"
+   },
+   {
+    "away": "Schalke 04",
+    "home": "Paderborn",
+    "kickoff": "2026-11-28T14:30:00Z",
+    "leaf_hash": "28f4fea539fe1a0b842cda61e5a083ad55bf2bdee55bcb624d5af281ed606807",
+    "league_code": "BL1",
+    "match_id": "401884719"
+   },
+   {
+    "away": "Borussia Mönchengladbach",
+    "home": "Werder Bremen",
+    "kickoff": "2026-11-27T19:30:00Z",
+    "leaf_hash": "be82e393e4d33b386c137bd10ee4699e8b05e965eeb631c97c171dca6c64558f",
+    "league_code": "BL1",
+    "match_id": "401884720"
+   },
+   {
+    "away": "Elversberg",
+    "home": "FC Köln",
+    "kickoff": "2026-11-28T14:30:00Z",
+    "leaf_hash": "633a7c59de4dab3f74d30f7b4102d2afd0605cea3308cd689148185cbc0a3a8d",
+    "league_code": "BL1",
+    "match_id": "401884721"
+   },
+   {
+    "away": "Bayern Munich",
+    "home": "Hamburger SV",
+    "kickoff": "2026-11-28T14:30:00Z",
+    "leaf_hash": "4431f0330a14dc0d63ab857318d494fd4aaa1481dc3b05abb229e94fd47631df",
+    "league_code": "BL1",
+    "match_id": "401884722"
+   },
+   {
+    "away": "Union Berlin",
+    "home": "Mainz 05",
+    "kickoff": "2026-11-28T14:30:00Z",
+    "leaf_hash": "3b25cf7170f3c25b0d3a12f659f35f9a740e3d0ed68f3336cdb430cf79b75e2a",
+    "league_code": "BL1",
+    "match_id": "401884723"
+   },
+   {
+    "away": "RB Leipzig",
+    "home": "SC Freiburg",
+    "kickoff": "2026-11-29T14:30:00Z",
+    "leaf_hash": "bd87b56ba557ad6e8ef84d7cf13063e29f3e7ffdbd5b7a4cc2ebba603703bf37",
+    "league_code": "BL1",
+    "match_id": "401884724"
+   },
+   {
+    "away": "FC Augsburg",
+    "home": "TSG Hoffenheim",
+    "kickoff": "2026-11-29T16:30:00Z",
+    "leaf_hash": "21beb36892c35b6217c32842d3ec4e724842455fc9837f33b6a5c1903b9e0b1e",
+    "league_code": "BL1",
+    "match_id": "401884725"
+   },
+   {
+    "away": "Eintracht Frankfurt",
+    "home": "VfB Stuttgart",
+    "kickoff": "2026-11-28T17:30:00Z",
+    "leaf_hash": "bf2750cd22541ad4d0539c8c6099160ec01555b63e0e307c875d7408bd03bc3a",
+    "league_code": "BL1",
+    "match_id": "401884726"
+   },
+   {
+    "away": "Estrela da Amadora",
+    "home": "Vitória de Guimarães",
+    "kickoff": "2026-11-28T20:30:00Z",
+    "leaf_hash": "622e1745e86de2aa930e89e639dee77e3a5ae2644875af91730c75156cace17a",
+    "league_code": "PPL",
+    "match_id": "401885385"
+   },
+   {
+    "away": "Santa Clara",
+    "home": "Moreirense",
+    "kickoff": "2026-11-28T15:30:00Z",
+    "leaf_hash": "51001aca379bcfb0033a4a77879afb937dc3eb966e0bb6678eb92653825d4e81",
+    "league_code": "PPL",
+    "match_id": "401885388"
+   },
+   {
+    "away": "Nacional",
+    "home": "Marítimo",
+    "kickoff": "2026-11-27T20:15:00Z",
+    "leaf_hash": "65ae15b1a058b9243a82a57118d9155c446fd5f8c3bf11ef1dce3f0d7e9c8dd2",
+    "league_code": "PPL",
+    "match_id": "401885389"
+   },
+   {
+    "away": "Rio Ave",
+    "home": "Arouca",
+    "kickoff": "2026-11-28T15:30:00Z",
+    "leaf_hash": "61086d818a901c09dec8ffafe386ffe206af6b2855e9afc439d0b4c39e8bb379",
+    "league_code": "PPL",
+    "match_id": "401885392"
+   },
+   {
+    "away": "Alverca",
+    "home": "Academico Viseu",
+    "kickoff": "2026-11-28T18:00:00Z",
+    "leaf_hash": "b6cd9882deb318bcc2e13d769524167ed1d0370369f1a48ea02b477eabfc2b46",
+    "league_code": "PPL",
+    "match_id": "401885393"
+   },
+   {
+    "away": "Gençlerbirliği",
+    "home": "Samsunspor",
+    "kickoff": "2026-11-28T13:00:00Z",
+    "leaf_hash": "5740a52a08e01bb280e008393d06cda89fb6e7ad20766a2dd5e0cd247e287c7f",
+    "league_code": "TSL",
+    "match_id": "401888236"
+   },
+   {
+    "away": "Erzurumspor",
+    "home": "Fenerbahçe",
+    "kickoff": "2026-11-29T16:00:00Z",
+    "leaf_hash": "5b33a84d3c240f2a26f85fc2f4c682496818cdda2ee347c9ee52488bdfc6c8fa",
+    "league_code": "TSL",
+    "match_id": "401888238"
+   },
+   {
+    "away": "Başakşehir",
+    "home": "Eyüpspor",
+    "kickoff": "2026-11-29T13:00:00Z",
+    "leaf_hash": "4de7c25b632645b64f3d1a7cd869998fdad3b3017787bb3db0cb72fdf420dfb2",
+    "league_code": "TSL",
+    "match_id": "401888242"
+   },
+   {
+    "away": "Kocaelispor",
+    "home": "Corum",
+    "kickoff": "2026-11-29T10:30:00Z",
+    "leaf_hash": "a3591ad72db591654265c22a20d4c8606f434b165d6040d5198d8a7f392b4d67",
+    "league_code": "TSL",
+    "match_id": "401888367"
+   },
+   {
+    "away": "Amedspor",
+    "home": "Gaziantep FK",
+    "kickoff": "2026-11-28T16:00:00Z",
+    "leaf_hash": "71463c3b63586b9ec6aca84e0869a11816bc28b8424b0d4c9438f529843ae6e4",
+    "league_code": "TSL",
+    "match_id": "401888368"
+   },
+   {
+    "away": "Panathinaikos",
+    "home": "Atromitos",
+    "kickoff": "2026-11-29T15:00:00Z",
+    "leaf_hash": "355ff711973414d3389a0310c664f69c78bd5950c87bad28d6130a0b317cfcf6",
+    "league_code": "G1",
+    "match_id": "401896719"
+   },
+   {
+    "away": "Olympiacos",
+    "home": "Aris",
+    "kickoff": "2026-11-29T17:00:00Z",
+    "leaf_hash": "110d027b6064f7f2650bb614bae128f07813c5b08ffc179ce596038a7708df6e",
+    "league_code": "G1",
+    "match_id": "401896720"
+   },
+   {
+    "away": "Levadeiakos",
+    "home": "OFI",
+    "kickoff": "2026-11-29T15:30:00Z",
+    "leaf_hash": "b84a40d638c221ea18c8d3f84d5a295eb5a91e3992522e8ce0f3a075ab956e15",
+    "league_code": "G1",
+    "match_id": "401896722"
+   },
+   {
+    "away": "Asteras Tripolis",
+    "home": "Volos NFC",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "20039fcbce8293e8d6bfc0975b97928e21b0a348991f28e8b36ae7379dbfc32a",
+    "league_code": "G1",
+    "match_id": "401896723"
+   },
+   {
+    "away": "Panetolikos",
+    "home": "Iraklis",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "32d506b5fdfdfbe4608b37f3e8d15eb8448652dfeaee19d8b137967f236a9a0d",
+    "league_code": "G1",
+    "match_id": "401896807"
+   },
+   {
+    "away": "Kalamata",
+    "home": "Kifisia",
+    "kickoff": "2026-11-28T18:00:00Z",
+    "leaf_hash": "bd88364f684ae8c4269b34dd98855af9a4e947171265b00d50cd07bd656eaf9b",
+    "league_code": "G1",
+    "match_id": "401896808"
+   },
+   {
+    "away": "Monterrey",
+    "home": "Club America",
+    "kickoff": "2026-11-29T03:10:00Z",
+    "leaf_hash": "62a6ba0f69c1757ddd719e938aee7e8c02f282ce0c23022b12c6bcc66d5391d6",
+    "league_code": "MX",
+    "match_id": "401931996"
+   },
+   {
+    "away": "Toluca",
+    "home": "Atlas",
+    "kickoff": "2026-11-29T01:00:00Z",
+    "leaf_hash": "b7c1f5ceb5d71abdb54958301e226f3956c0c12aa5f79df5fe73f97d388b83c9",
+    "league_code": "MX",
+    "match_id": "401931997"
+   },
+   {
+    "away": "FC Dallas",
+    "home": "Portland Timbers",
+    "kickoff": "2026-11-29T03:30:00Z",
+    "leaf_hash": "7a89d980577036b02ccb66ca777bc7a000218a1eb9db6327fb3791cce695dc50",
+    "league_code": "MLS",
+    "match_id": "401933721"
+   },
+   {
+    "away": "Nashville SC",
+    "home": "FC Cincinnati",
+    "kickoff": "2026-11-28T23:30:00Z",
+    "leaf_hash": "c6402cb23ad845edbfa330503fb80bb46546fd15cd1a56b5f0bef1dd7d54ce89",
+    "league_code": "MLS",
+    "match_id": "401933722"
+   },
+   {
+    "away": "New England Revolution",
+    "home": "Philadelphia Union",
+    "kickoff": "2026-11-28T21:30:00Z",
+    "leaf_hash": "8e2dce4d793d2fa18f2ef30ffb8407054843b147ed68fa73b8fe76289ba7d33a",
+    "league_code": "MLS",
+    "match_id": "401933723"
+   },
+   {
+    "away": "San Jose Earthquakes",
+    "home": "Houston Dynamo",
+    "kickoff": "2026-11-28T19:30:00Z",
+    "leaf_hash": "df7fa7ea136923730ddebce0dfa911b5bebbc55226c231106a68d965d68fd8db",
+    "league_code": "MLS",
+    "match_id": "401933724"
+   },
+   {
+    "away": "Vancouver Whitecaps",
+    "home": "Real Salt Lake",
+    "kickoff": "2026-11-28T03:00:00Z",
+    "leaf_hash": "d688a689ff85717168551c94edb671c684061a1501184fd55fdf0643c69cc2b7",
+    "league_code": "MLS",
+    "match_id": "401933725"
+   },
+   {
+    "away": "St. Louis City",
+    "home": "Los Angeles FC",
+    "kickoff": "2026-11-29T01:30:00Z",
+    "leaf_hash": "f252e932e386591615026e95b53086fbd51f1471aeb7a171f92ac7b6a4d6369f",
+    "league_code": "MLS",
+    "match_id": "401933726"
+   },
+   {
+    "away": "Inter Miami",
+    "home": "Columbus Crew",
+    "kickoff": "2026-11-28T01:00:00Z",
+    "leaf_hash": "674f7d4ce00cb0777f450e67f54d1ce28337e60ba67f6349c4c2a7c93900ab5b",
+    "league_code": "MLS",
+    "match_id": "401933727"
+   },
+   {
+    "away": "Chicago Fire",
+    "home": "Charlotte",
+    "kickoff": "2026-11-28T17:30:00Z",
+    "leaf_hash": "4478b4bb3a9c5823f73e7a94a55d86f21b28f17b5c48e4a30a1d17f0f0449742",
+    "league_code": "MLS",
+    "match_id": "401933737"
+   },
+   {
+    "away": "Independiente",
+    "home": "Velez Sarsfield",
+    "kickoff": "2026-11-28T23:00:00Z",
+    "leaf_hash": "b4812f21ca421488616fda662ee90e978aa61c7c74752120b436e40226481a92",
+    "league_code": "ARG",
+    "match_id": "401936353"
+   },
+   {
+    "away": "River Plate",
+    "home": "Instituto",
+    "kickoff": "2026-11-29T01:00:00Z",
+    "leaf_hash": "0b28b0fe9a9c1039875b1c34e385dad5a5e217aecd75d159a463013b304ea3e3",
+    "league_code": "ARG",
+    "match_id": "401936413"
+   },
+   {
+    "away": "Wisła Płock",
+    "home": "Gornik Zabrze",
+    "kickoff": "2026-11-27T19:30:00Z",
+    "leaf_hash": "24641449b6fb0c76f5159bcf50b3d58d7d78f6059c3ed1775c9152a8fa7025e5",
+    "league_code": "POL",
+    "match_id": "fotmob-5804049"
+   },
+   {
+    "away": "Pogoń Szczecin",
+    "home": "Lech Poznan",
+    "kickoff": "2026-11-29T13:45:00Z",
+    "leaf_hash": "64b23da56cb7a336524ec95c3f496fd436714182da365176a686fca78774bb62",
+    "league_code": "POL",
+    "match_id": "fotmob-5804052"
+   },
+   {
+    "away": "Wieczysta Krakow",
+    "home": "Legia Warsaw",
+    "kickoff": "2026-11-29T16:30:00Z",
+    "leaf_hash": "394035da4e91a379bb68970e0d188f3e82026054fee8866599f92f30a1dfaea6",
+    "league_code": "POL",
+    "match_id": "fotmob-5804053"
+   },
+   {
+    "away": "GKS Katowice",
+    "home": "Slask Wroclaw",
+    "kickoff": "2026-11-28T16:30:00Z",
+    "leaf_hash": "3154f707b7826de0725eb615f36193ce552968d4f33e00cabea2fa6961bdcdd2",
+    "league_code": "POL",
+    "match_id": "fotmob-5804055"
+   },
+   {
+    "away": "Zaglebie",
+    "home": "Widzew Lodz",
+    "kickoff": "2026-11-28T13:45:00Z",
+    "leaf_hash": "9c6ab09aca4a91156319efe539824cc3f619110799dcae67443bfbd7712a8f7b",
+    "league_code": "POL",
+    "match_id": "fotmob-5804056"
+   },
+   {
+    "away": "Motor Lublin",
+    "home": "Wisla",
+    "kickoff": "2026-11-28T19:15:00Z",
+    "leaf_hash": "17b33bf4dfd9eeb51e5c46bfcc0c4fde3ff673830575082a9a0595fa92177214",
+    "league_code": "POL",
+    "match_id": "fotmob-5804057"
+   },
+   {
+    "away": "Basel",
+    "home": "Grasshoppers",
+    "kickoff": "2026-11-28T17:00:00Z",
+    "leaf_hash": "fa67dad2cbdfbfa73d3f61df5361f45a7b2fc9749c3705b0ec267028e682489f",
+    "league_code": "SUI",
+    "match_id": "fotmob-5804304"
+   },
+   {
+    "away": "Lugano",
+    "home": "Luzern",
+    "kickoff": "2026-11-29T13:00:00Z",
+    "leaf_hash": "71faed9af595112d4a1784bbb372569403bb44cdefe68c06ba3c6578235d683a",
+    "league_code": "SUI",
+    "match_id": "fotmob-5804305"
+   },
+   {
+    "away": "Lausanne-Sports",
+    "home": "Servette",
+    "kickoff": "2026-11-28T19:30:00Z",
+    "leaf_hash": "842084c86571363ca4b7de9132913e4356dd462a5807c5779d9cd608b8f41961",
+    "league_code": "SUI",
+    "match_id": "fotmob-5804306"
+   },
+   {
+    "away": "BSC Young Boys",
+    "home": "Sion",
+    "kickoff": "2026-11-29T15:30:00Z",
+    "leaf_hash": "e365407e3fbd9a7cf5165a3784332585d619d574f6c37e6a736a7f93df19338b",
+    "league_code": "SUI",
+    "match_id": "fotmob-5804307"
+   },
+   {
+    "away": "St. Gallen",
+    "home": "Thun",
+    "kickoff": "2026-11-29T15:30:00Z",
+    "leaf_hash": "7ff4ae40f335030e30016732f418b6bcb2f96c58011a936a58f8d0e817ddef3b",
+    "league_code": "SUI",
+    "match_id": "fotmob-5804308"
+   },
+   {
+    "away": "Zurich",
+    "home": "Vaduz",
+    "kickoff": "2026-11-28T17:00:00Z",
+    "leaf_hash": "1c88c56b8fd3c58ef2d4408a46ac3d6f9f3840b459583a42ca017a1c8664804f",
+    "league_code": "SUI",
+    "match_id": "fotmob-5804309"
+   },
+   {
+    "away": "Farul Constanța",
+    "home": "Corvinul",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "leaf_hash": "1df0aeb0e659c3cb369528e567b4788a3c78078eb5b38177db3dd19742b8ea48",
+    "league_code": "ROM",
+    "match_id": "fotmob-5853560"
+   },
+   {
+    "away": "Csikszereda M. Ciuc",
+    "home": "FCSB",
+    "kickoff": "2026-11-28T18:00:00Z",
+    "leaf_hash": "b6fdfb4536c850b26510caf908aeacd09166e73badff997236f6d0d2d82c9549",
+    "league_code": "ROM",
+    "match_id": "fotmob-5853562"
+   },
+   {
+    "away": "CFR Cluj",
+    "home": "FC Voluntari",
+    "kickoff": "2026-11-28T12:30:00Z",
+    "leaf_hash": "f477257006ef8e2823906dd44471f2e9180d3f4687d648c1a49a26073d077fac",
+    "league_code": "ROM",
+    "match_id": "fotmob-5853563"
+   },
+   {
+    "away": "UTA Arad",
+    "home": "Oțelul Galați",
+    "kickoff": "2026-11-29T13:00:00Z",
+    "leaf_hash": "fbbc578bb1df76d6459565a1f614670252881e0a912054b878b7cadaa61f475a",
+    "league_code": "ROM",
+    "match_id": "fotmob-5853564"
+   },
+   {
+    "away": "FC Arges",
+    "home": "Petrolul Ploiești",
+    "kickoff": "2026-11-27T18:30:00Z",
+    "leaf_hash": "000163e899242cdada7ad5d0f0a60c23ca31a3b51f0f6c60e73f492fdef3edbc",
+    "league_code": "ROM",
+    "match_id": "fotmob-5853565"
+   }
+  ],
+  "count": 133,
+  "generated_at": "2026-11-27T17:07:13Z",
+  "root": "abe556e904947c76015a6192f96f6be6bead6861878ce3468ddbdfc22923727c",
+  "season_seals": [
+   {
+    "hash": "cdd86c390a33fd576e69bab3d271baf128c289a0665c0ee340122831eb8e4121",
+    "league_code": "BL1",
+    "sealed_at": "2026-11-25T01:38:20Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "993e58c4656d298becdf6252d8999f98bd05e02fe0ac37f9b6f65bbaa88eb50e",
+    "league_code": "CFL",
+    "sealed_at": "2026-11-25T02:05:14Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "025ff410b6d5122ac484c02533b1e6b3542cc906dd4ee1906874b6848f78b4b8",
+    "league_code": "CL",
+    "sealed_at": "2026-11-25T02:02:51Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "45f58143373db4f498e72937a7ec092f259ebdfd5a2ca79f81a2be0b0436f552",
+    "league_code": "DED",
+    "sealed_at": "2026-11-25T01:51:54Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "f8a5d83b46eba34c3d5e54a87012dc7546f04b250f8cc21e325ca280853bff3b",
+    "league_code": "EL",
+    "sealed_at": "2026-11-25T02:04:10Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "795e4345c6ee658097ac6a4e3aa13e56b15bd33a7c5c6b1c25128c81f33f3703",
+    "league_code": "FL1",
+    "sealed_at": "2026-11-25T01:49:08Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "77505e38461aa0b4bbe098e4e9ff20f5a629302f45501748bd3ed0fa34a8339f",
+    "league_code": "NOR",
+    "sealed_at": "2026-11-25T02:01:28Z",
+    "season": "2026"
+   },
+   {
+    "hash": "2840b6d2cbb7b2c2c5d49bf7c965febd139bd2b444ca62b66420d6c3b528e57b",
+    "league_code": "PD",
+    "sealed_at": "2026-11-25T01:46:07Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "85cc629a3c297060a0dbecade54e0e9f1f4f732fc040a7f26abccd0d3dadb10c",
+    "league_code": "PL",
+    "sealed_at": "2026-11-25T01:34:31Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "00ec9097eeeec6ada0a4076da75ddcc7e385c32ea122af62365c2f4dfb40c5f6",
+    "league_code": "POL",
+    "sealed_at": "2026-11-25T02:00:49Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "bd09b68028c457cc4d507a027368ced2c2958674a8d7df7f84e119dddfc96895",
+    "league_code": "PPL",
+    "sealed_at": "2026-11-25T01:57:57Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "747bd55df0fa4df0531993a73ecb80dad89d044bfd163a2bb8932d2b89734197",
+    "league_code": "SA",
+    "sealed_at": "2026-11-25T01:42:23Z",
+    "season": "2026-2027"
+   },
+   {
+    "hash": "a84f2f449ddb90a600ff5a8e0f5f4efe6da6df5d659b57859f1e7bf759b8febf",
+    "league_code": "TSL",
+    "sealed_at": "2026-11-25T01:54:50Z",
+    "season": "2026-2027"
+   }
+  ],
+  "version": 1
+ }
+}
