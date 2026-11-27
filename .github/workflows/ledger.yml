@@ -14,6 +14,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main              # the tip when this job starts, not when it was queued
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -26,5 +28,5 @@ jobs:
           git add -A ledger certs
           if ! git diff --cached --quiet; then
             git commit -m "ledger $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            bash tools/push.sh
           fi

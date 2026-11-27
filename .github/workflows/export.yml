@@ -14,6 +14,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main              # the tip when this job starts, not when it was queued
       - name: fetch
         run: |
           code=$(curl -sS -A "scoutai-ledger/1.0 (+https://github.com/AtaSakik/scoutai-ledger)" \
@@ -28,5 +30,5 @@ jobs:
           git add -A data
           if ! git diff --cached --quiet; then
             git commit -m "open data $(date -u +%Y-%m-%d)"
-            git push
+            bash tools/push.sh
           fi
