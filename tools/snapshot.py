@@ -57,9 +57,14 @@ def rfc3161(path: Path) -> bool:
 
 
 def opentimestamps(path: Path) -> bool:
+    ots = path.with_suffix(path.suffix + ".ots")
+    # A second run in the same hour rewrites HH.json, and `ots stamp` refuses to
+    # overwrite an existing proof: the proof of the earlier bytes stayed next to
+    # the new file (four hours until 2026-11-27). Git history keeps that pair.
+    ots.unlink(missing_ok=True)
     try:
         subprocess.run(["ots", "stamp", str(path)], check=True, capture_output=True, timeout=120)
-        return path.with_suffix(path.suffix + ".ots").exists()
+        return ots.exists()
     except Exception as e:                       # noqa: BLE001
         print(f"::warning::OpenTimestamps stamp failed: {e}")
         return False
