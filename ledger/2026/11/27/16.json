@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T16:07:10Z",
+ "fetched_at": "2026-11-27T16:38:59Z",
  "pending": {
   "commitments": [
    {
@@ -182,7 +182,7 @@
     "away": "Napoli",
     "home": "Sassuolo",
     "kickoff": "2026-11-29T14:00:00Z",
-    "leaf_hash": "be985bcdcea35746f79d8e11b56f9516f1f64002ca2c9f77524731411c5e2a3f",
+    "leaf_hash": "df039a8389340d5618618eea580a6f6952c110edd90f70106cd159d930bf9da2",
     "league_code": "SA",
     "match_id": "401874992"
    },
@@ -273,6 +273,14 @@
     "leaf_hash": "c97d25881fdebd8bac1e58747ff0355aa4953209f9f27e698f6c1dccd4d445b3",
     "league_code": "DED",
     "match_id": "401875538"
+   },
+   {
+    "away": "Stade Rennais",
+    "home": "Toulouse",
+    "kickoff": "2026-11-29T16:15:00Z",
+    "leaf_hash": "4f830070b21108f6699bb9b5353bc64def04e0f1a30ca4d7abb1910ca1a0157f",
+    "league_code": "FL1",
+    "match_id": "401876386"
    },
    {
     "away": "FC Lorient",
@@ -387,6 +395,14 @@
     "match_id": "401878752"
    },
    {
+    "away": "Manchester City",
+    "home": "Arsenal",
+    "kickoff": "2026-11-29T16:30:00Z",
+    "leaf_hash": "51c828fc7f231bd6dcb95925cb9e697de93e3ef9ade120bf1ad8804f5dd05dc4",
+    "league_code": "PL",
+    "match_id": "401878753"
+   },
+   {
     "away": "KRC Genk",
     "home": "St Truiden",
     "kickoff": "2026-11-29T12:30:00Z",
@@ -446,7 +462,7 @@
     "away": "Tottenham Hotspur",
     "home": "Sunderland",
     "kickoff": "2026-11-29T14:05:00Z",
-    "leaf_hash": "3e354e275f80a95bc0b9f47b97a7bca1fc71152f89fababdfe1e32d3c435cfec",
+    "leaf_hash": "ffbc0229b0d2d85bc80bd836401d27fcd97b38418267841dc991caee66e92e46",
     "league_code": "PL",
     "match_id": "401879224"
    },
@@ -462,7 +478,7 @@
     "away": "Brentford",
     "home": "Manchester United",
     "kickoff": "2026-11-28T15:00:00Z",
-    "leaf_hash": "2b884a71cc91b9a82513bef4f67337012ec4f03916b93942bf3fa655226e064d",
+    "leaf_hash": "f140c01e93e821e4dcbfcd407c6d4fc58b1ffecb1037ce36c04791b6030a6350",
     "league_code": "PL",
     "match_id": "401879226"
    },
@@ -470,7 +486,7 @@
     "away": "Coventry City",
     "home": "Leeds United",
     "kickoff": "2026-11-28T15:00:00Z",
-    "leaf_hash": "ced9043714a40d43498c124c333a0f1bb38c664d26f1598a057cf500801cb9fd",
+    "leaf_hash": "51eb20e3a3991c01c906013fade1de5542b5f2e8296ef4523c1a3545679a3e22",
     "league_code": "PL",
     "match_id": "401879227"
    },
@@ -478,7 +494,7 @@
     "away": "Bournemouth",
     "home": "Fulham",
     "kickoff": "2026-11-29T14:05:00Z",
-    "leaf_hash": "997a91b5842b5bd6763a44b3d53c22a510da32d31297116bc0e84d083b879208",
+    "leaf_hash": "0d1dbf966753b9a5015ca56a2011fcb784d4af0c674854d141a0913a01aba121",
     "league_code": "PL",
     "match_id": "401879228"
    },
@@ -494,7 +510,7 @@
     "away": "Hull City",
     "home": "Crystal Palace",
     "kickoff": "2026-11-29T14:05:00Z",
-    "leaf_hash": "8006fac23b12e57b6301ecde50be2adec6141bee04c49c64baa7ad25feecf3e2",
+    "leaf_hash": "288c6bd6f2dd1bd0b20fc5160927f1a10db137738842750b356abb47736e8bf5",
     "league_code": "PL",
     "match_id": "401879230"
    },
@@ -502,7 +518,7 @@
     "away": "Newcastle United",
     "home": "Brighton and Hove Albion",
     "kickoff": "2026-11-29T14:05:00Z",
-    "leaf_hash": "b53ba3c38552fb4d763ef47f69c92360bb0acf0e30beb2f1fbe0b1e43e6f489a",
+    "leaf_hash": "e32dd9d80fc0f30da0200bf69a23061685bcbb4baaf79526cee5ddf9e82808b9",
     "league_code": "PL",
     "match_id": "401879231"
    },
@@ -654,9 +670,17 @@
     "away": "RB Leipzig",
     "home": "SC Freiburg",
     "kickoff": "2026-11-29T14:30:00Z",
-    "leaf_hash": "330a8a41921dc7a948a52f063c94ad2a816da2c68ca6336f27e149937563a662",
+    "leaf_hash": "bd87b56ba557ad6e8ef84d7cf13063e29f3e7ffdbd5b7a4cc2ebba603703bf37",
     "league_code": "BL1",
     "match_id": "401884724"
+   },
+   {
+    "away": "FC Augsburg",
+    "home": "TSG Hoffenheim",
+    "kickoff": "2026-11-29T16:30:00Z",
+    "leaf_hash": "21beb36892c35b6217c32842d3ec4e724842455fc9837f33b6a5c1903b9e0b1e",
+    "league_code": "BL1",
+    "match_id": "401884725"
    },
    {
     "away": "Eintracht Frankfurt",
@@ -915,6 +939,14 @@
     "match_id": "fotmob-5804052"
    },
    {
+    "away": "Wieczysta Krakow",
+    "home": "Legia Warsaw",
+    "kickoff": "2026-11-29T16:30:00Z",
+    "leaf_hash": "9cea630c7aa354929d1fcf1ba0d00e8bc59cd00d3004e6a51732dace8f74a2b9",
+    "league_code": "POL",
+    "match_id": "fotmob-5804053"
+   },
+   {
     "away": "Piast Gliwice",
     "home": "Rakow",
     "kickoff": "2026-11-27T17:00:00Z",
@@ -1035,9 +1067,9 @@
     "match_id": "fotmob-5853565"
    }
   ],
-  "count": 129,
-  "generated_at": "2026-11-27T16:07:11Z",
-  "root": "5bfc029968da5690464dc1ff63765375625efe4386abf8ae6239fe44a9fe024c",
+  "count": 133,
+  "generated_at": "2026-11-27T16:38:59Z",
+  "root": "5b5c4f4a5acd2a941f3d4308e1d7aca1aae52fff2a813b2c2a05ea35621718a5",
   "season_seals": [
    {
     "hash": "cdd86c390a33fd576e69bab3d271baf128c289a0665c0ee340122831eb8e4121",
