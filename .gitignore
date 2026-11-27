@@ -1,3 +1,6 @@
 .uptime/
 __pycache__/
 *.tsq
+# `ots upgrade` keeps the proof it replaced as <file>.ots.bak; git history
+# already holds that version.
+*.ots.bak
