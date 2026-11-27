@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T04:07:21Z",
+ "fetched_at": "2026-11-27T04:56:54Z",
  "pending": {
   "commitments": [
    {
@@ -14,7 +14,7 @@
     "away": "Cruzeiro",
     "home": "Fluminense",
     "kickoff": "2026-11-27T23:00:00Z",
-    "leaf_hash": "17227d96ff70bd9be96f77bdc0c14d080c12e73bcaaa976fc9fffba9c6a9238b",
+    "leaf_hash": "bb2a4c17459836dcc00c97ed35b77fd026b9867779969ac3e6ef2ea568853f24",
     "league_code": "BRA",
     "match_id": "401841337"
    },
@@ -38,7 +38,7 @@
     "away": "Brøndby",
     "home": "Sonderjyske",
     "kickoff": "2026-11-27T18:00:00Z",
-    "leaf_hash": "b1f6d519ac768ca06f5aa14c119d6dbe07013a81b9ec10d16df3371ec8eea737",
+    "leaf_hash": "3d4c63681ba6649537d924ac16962370f35064591b5243f37b11e1ffc3cb0b32",
     "league_code": "DEN",
     "match_id": "401874563"
    },
@@ -94,7 +94,7 @@
     "away": "Willem II",
     "home": "FC Groningen",
     "kickoff": "2026-11-27T19:00:00Z",
-    "leaf_hash": "f7abf80ca4e50ba5364d42dcb4fbf0a40ad8034c809cb1882fc4bdbff165a93d",
+    "leaf_hash": "13335901cc3e160278e47239f2e0cd5e215b6cb427c91bf62eca67bf85373a9a",
     "league_code": "DED",
     "match_id": "401875536"
    },
@@ -310,7 +310,7 @@
     "away": "Racing de Santander",
     "home": "Levante UD",
     "kickoff": "2026-11-27T20:00:00Z",
-    "leaf_hash": "3303be91d94fd43a9194e10cb47108a376cec834d10d01b95b77ef876a8964df",
+    "leaf_hash": "47f679d9e74186ca0a473224f5cf59932b296dae3838d17e01fddf01fbddd08e",
     "league_code": "PD",
     "match_id": "401882791"
    },
@@ -342,7 +342,7 @@
     "away": "Borussia Mönchengladbach",
     "home": "Werder Bremen",
     "kickoff": "2026-11-27T19:30:00Z",
-    "leaf_hash": "f563726e510f779524eb3df7e66da93c1733c24901c477e1838ce5bf72851acc",
+    "leaf_hash": "87191f5a55e1ce1471cb2fcf46ed57956e699ac5704f7d721ac0172eec1dfcb0",
     "league_code": "BL1",
     "match_id": "401884720"
    },
@@ -398,7 +398,7 @@
     "away": "Nacional",
     "home": "Marítimo",
     "kickoff": "2026-11-27T20:15:00Z",
-    "leaf_hash": "6851defe22af2d57091ccd2ecd0d3ce876a6a76384db65c01c148086a901f42c",
+    "leaf_hash": "41f10998aa913785c15feab3fa9f588b60c1fe7dbd9fafa8242350d6a115f54e",
     "league_code": "PPL",
     "match_id": "401885389"
    },
@@ -438,7 +438,7 @@
     "away": "Konyaspor",
     "home": "Alanyaspor",
     "kickoff": "2026-11-27T17:00:00Z",
-    "leaf_hash": "6534b63b0b33b039a15a91ba2d3860d1463163d0ab69080d2c1555914c26332f",
+    "leaf_hash": "73c186e11d098f9e618bcab04d6c5a6033c401cbe6c75ec5340f32b85cc22e15",
     "league_code": "TSL",
     "match_id": "401888241"
    },
@@ -526,7 +526,7 @@
     "away": "Vancouver Whitecaps",
     "home": "Real Salt Lake",
     "kickoff": "2026-11-28T03:00:00Z",
-    "leaf_hash": "c07ef6ed5e20b8c1d78b13f538b1eca560d1245ddecec56ea4e848b6b768d8c9",
+    "leaf_hash": "78392ee96d82677573a84f5ba57e56cc65e6a832902cb10db49c6965c544bd50",
     "league_code": "MLS",
     "match_id": "401933725"
    },
@@ -676,8 +676,8 @@
    }
   ],
   "count": 84,
-  "generated_at": "2026-11-27T04:07:21Z",
-  "root": "487bb3bacfb72ae311abed9cd5c8b992261134de42dbe011bbf66676e8876c28",
+  "generated_at": "2026-11-27T04:56:54Z",
+  "root": "fffc531d6369eb5e244f70685aa62da392c834d48182d75482549d7f7acdee14",
   "season_seals": [
    {
     "hash": "cdd86c390a33fd576e69bab3d271baf128c289a0665c0ee340122831eb8e4121",
